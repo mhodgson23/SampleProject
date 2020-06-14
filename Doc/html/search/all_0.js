@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['sampleproject_0',['SampleProject',['../md__r_e_a_d_m_e.html',1,'']]]
+  ['consumption_2ecpp_0',['consumption.cpp',['../consumption_8cpp.html',1,'']]],
+  ['consumption_2ehpp_1',['consumption.hpp',['../consumption_8hpp.html',1,'']]]
 ];
