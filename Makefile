@@ -36,8 +36,8 @@ wind.o: wind.hpp
 
 # Make Doxygen documentation
 documentation:
-	@doxygen
-	@open doxygen/html/index.html
+	del /f Doc
+	doxygen doxygenConfig
 	
 # Make clean clears out all object files for the "main" target
 clean:
